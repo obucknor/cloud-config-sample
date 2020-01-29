@@ -3,6 +3,6 @@ report:
     type: pdf
   border: none
   page:
-    color: white
+    color: blue
     size: A4
 duration: all
